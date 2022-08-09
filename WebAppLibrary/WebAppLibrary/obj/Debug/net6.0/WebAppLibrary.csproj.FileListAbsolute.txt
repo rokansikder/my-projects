@@ -1,0 +1,12 @@
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\bin\Debug\net6.0\WebAppLibrary.deps.json
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\bin\Debug\net6.0\WebAppLibrary.dll
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\bin\Debug\net6.0\WebAppLibrary.pdb
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\WebAppLibrary.csproj.AssemblyReference.cache
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\WebAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\WebAppLibrary.AssemblyInfoInputs.cache
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\WebAppLibrary.AssemblyInfo.cs
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\WebAppLibrary.csproj.CoreCompileInputs.cache
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\WebAppLibrary.dll
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\refint\WebAppLibrary.dll
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\WebAppLibrary.pdb
+C:\Work\Projects\WebAppLibrary\WebAppLibrary\obj\Debug\net6.0\ref\WebAppLibrary.dll
